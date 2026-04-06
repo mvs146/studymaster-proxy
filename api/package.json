@@ -1,0 +1,6 @@
+{
+  "name": "studymaster-proxy",
+  "version": "1.0.0",
+  "description": "StudyMaster AI secure API proxy — keeps keys server-side",
+  "private": true
+}
