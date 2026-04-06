@@ -1,3 +1,8 @@
+bash
+
+cat /home/claude/vercel-proxy/api/proxy.js
+Output
+
 // ═══════════════════════════════════════════════════════════════
 // StudyMaster AI — Vercel Edge Proxy v2
 // Secure server-side API keys — students never see them
